@@ -9,7 +9,7 @@ Primeiramente obtenha seu token JWT seguindo os seguintes passos:
 
 3º: Copie o token JWT.
 
-Lembrando que esse token é único e não deve ser compartilhado, para o seu bem 😈.
+Lembrando que esse token é único e não deve ser compartilhado, para o seu bem 😈
 
 - Execute o script.
 - Digite o canal alvo.
