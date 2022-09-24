@@ -18,4 +18,3 @@ Lembrando que esse token é único e não deve ser compartilhado, para o seu bem
 - Escolha a quantidade de vezes a spammar.
 - Caso seja uma mensagem, digite o conteúdo.
 
-// https://twitter.com/atojniam
